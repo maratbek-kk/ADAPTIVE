@@ -1,2 +1,2 @@
 # CKS-Medina3
-https://cksvolunteers.github.io/CKS-Medina3/
+ https://maratbek-kk.github.io/ADAPTIVE/
